@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, there
+---
 
-<!--
-**felipefbs/felipefbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently finishing my graduation where I'm studying embedded systems, computer networks,telecommunications and techie stuff like that. In the near future I want to go deeper into backend dev using Typescript and some Golang.
 
-Here are some ideas to get you started:
+ - 🔭 I’m currently working on an IoT project for smart campus
+ - 🌱 I’m currently learning C++ for embedded systems and some web stuffs
+ - 👯 I'm collaborating with the Brazilian Portuguese translation of the Gatsby documentation
+ - 🤔 I’m looking for help with web architecture 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on: 
+ - Twitter  - [felipef_bs](https://twitter.com/felipef_bs)
+ - Discord  -  Ghamir#9222
+ - Instagram- [felipef.bs](https://www.instagram.com/felipef.bs/)
+ - Email    -  me@felipefbs.dev
+ - LinkedIn - [felipef_bs](https://www.linkedin.com/in/felipefbs/)
+ - Github   - [felipefbs](https://github.com/felipefbs/)
