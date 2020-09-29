@@ -5,7 +5,6 @@ I am currently finishing my graduation where I'm studying embedded systems, comp
 
  - 🔭 I’m currently working on an IoT project for smart campus
  - 🌱 I’m currently learning C++ for embedded systems and some web stuffs
- - 👯 I'm collaborating with the Brazilian Portuguese translation of the Gatsby documentation
  - 🤔 I’m looking for help with web architecture 
 
 You can find me on: 
