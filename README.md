@@ -9,7 +9,7 @@ I am currently finishing my graduation where I'm studying embedded systems, comp
 
 You can find me on: 
  - Twitter  - [felipef_bs](https://twitter.com/felipef_bs)
- - Discord  -  Ghamir#9222
+ - Discord  -  felipefbs#9222
  - Instagram- [felipef.bs](https://www.instagram.com/felipef.bs/)
  - Email    -  me@felipefbs.dev
  - LinkedIn - [felipef_bs](https://www.linkedin.com/in/felipefbs/)
